@@ -5,7 +5,6 @@ Accessing a song book database with a server that provides a RESTful JSON API
 
 Testing API:
 http://localhost:3000/api/users
-
 http://localhost:3000/api/songs?title=Best
 http://localhost:3000/api/songs?composer=Holland
 http://localhost:3000/api/songs?title=Girl&composer=Jobim
