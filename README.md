@@ -3,9 +3,9 @@ Accessing a song book database with a server that provides a RESTful JSON API
 
 [Demo](https://songindexapi.herokuapp.com/api/songs)
 
-
 Testing API:
 http://localhost:3000/api/users
+
 http://localhost:3000/api/songs?title=Best
 http://localhost:3000/api/songs?composer=Holland
 http://localhost:3000/api/songs?title=Girl&composer=Jobim
