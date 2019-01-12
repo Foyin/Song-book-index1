@@ -1,5 +1,5 @@
 # Song-book-index1
-Accessing a song book database with a server that provides a RESTful JSON API
+Accessing a song book database created by my database programming class with a server that provides a RESTful JSON API
 
 [Demo](https://songindexapi.herokuapp.com/api/songs)
 ```
