@@ -1,6 +1,7 @@
 # Song-book-index1
 Accessing a song book database with a server that provides a RESTful JSON API.
 
+[Demo](https://songindexapi.herokuapp.com/api/songs)
 
 `Testing API:
 http://localhost:3000/api/users
