@@ -1,5 +1,5 @@
 # Song-book-index1
-Accessing a song book database with a server that provides a RESTful JSON API
+Accessing a song book database with a server that provides a RESTful JSON API.
 
 
 		Testing API:
